@@ -1,4 +1,4 @@
-##KOMSI(Kömürlü Sistemler İçin)
+KOMSI(Kömürlü Sistemler İçin)
 =====
 
 Altered files allocation tool.
